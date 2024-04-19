@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+title: Overview
+sidebar_position: 2
 ---
 
-# Tutorial Intro
+# GitHub: Basics and Beyond
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
