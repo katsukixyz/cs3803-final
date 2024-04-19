@@ -1,48 +1,40 @@
 ---
 title: Overview
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# GitHub: Basics and Beyond
+# GitHub: Basics and beyond
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Module 3: Collaborative Workflows on GitHub
 
-## Getting Started
+Welcome to this module on collaborative workflows on GitHub. This section serves as an introduction to the essential elements
+that facilitate effective teamwork and coordination within GitHub's ecosystem. GitHub Projects, Pull Requests, and Issues are
+transparent tools for organizing, managing, and enhancing collaborative efforts in software development projects.
 
-Get started by **creating a new site**.
+Utilizing customizable boards, teams can categorize tasks, assign responsibilities, and monitor their status in real-time. This
+feature streamlines the collaboration process by providing a centralized platform for project management and discussions among team
+members. They enable developers to propose changes, solicit feedback, and merge code alterations into the main codebase.
+Throughout this module, we will explore the functionalities and best practices associated with GitHub Projects, Pull Requests,
+and Issues. By mastering these collaborative tools, teams can enhance productivity, foster innovation, and achieve project
+success within the GitHub ecosystem.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+> Project boards keep your milestones and goals organized so that
+> your team can stay on track.
 
-### What you'll need
+### What you'll learn
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Agile Methodology
 
-## Generate a new site
+- Sprints, Issues, and Agile  
 
-Generate a new Docusaurus site using the **classic template**.
+- About Pull Requests
 
-The classic template will automatically be added to your project after you run the command:
+- Organizing Your Project in GitHub
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Project Boards and Timelines
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Milestones and Following Development Goals  
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- Linking and Tracking Progress
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- GitHub: Projects Exercise
