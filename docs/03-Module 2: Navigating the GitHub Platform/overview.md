@@ -30,4 +30,4 @@ Welcome to the Git Training Module! This course is designed to help you master t
 
 This module is intended for individuals new to version control, developers aiming to solidify their understanding of Git, and teams involved in software development needing robust tools for managing complex projects.
 
-We hope you find this training module informative and useful as you progress in your understanding of version control with Git. Enjoy your journey into effective and efficient software development!
+We hope you find this training module informative and useful as you progress in your understanding of version control with Git.
