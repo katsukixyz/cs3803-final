@@ -3,7 +3,7 @@ title: Branching in Git with Video Tutorial
 sidebar_position: 2
 ---
 
-# Branching in Git with Video Tutorial
+# Branching in Git 
 
 Branching allows for non linear development in Git and it allows developers to experiment, develop new features, fix bugs, or make any changes without affecting the main branch or any other branches within the same repo. This also allows other team members working on the same project to contribute and make changes by working on their own branch.
 
