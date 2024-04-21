@@ -10,9 +10,6 @@ import RepoStats from '@site/src/components/RepoStats';
 
 Let's take a look at some **open-source projects** that are impactful. Explore these open-source projects and unlock the potential of community-driven software development.
 
-### What You'll Need
-
-To meaningfully contribute to open-source projects on GitHub, you will need a GitHub account which will enable you to clone repositories, push code, and submit issues/pull requests.
 
 ### Video Overview
 

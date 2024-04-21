@@ -7,42 +7,37 @@ sidebar_position: 6
 
 Understanding how to track the progress of open-source projects on GitHub can enhance your ability to contribute effectively and stay updated with ongoing development.
 
-## What You'll Need
-
-To follow development milestones and other progress indicators on GitHub, you'll need a GitHub account and a basic understanding of how GitHub works. This includes familiarity with repositories, issues, and project boards.
-
-### Video Tutorial
-
-<video width="100%" height="auto" controls>
-  <source src="/img/development-tracking-tutorial.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
 
 ## Milestones in GitHub
 
-GitHub provides a feature called **Milestones** which helps project maintainers and contributors track the progress of specific features, fixes, or other significant efforts within a larger project context.
+GitHub has a key feature called **milestones**. Milestones help project managers and code contributers track the progress of the codebase by providing a time-structured organization of featues, issues, and pull requests for a given project.
 
 ### Understanding Milestones
 
 ![Milestones](/img/milestone-gif.gif)
 
-Milestones are used to group issues and pull requests into specific goals or timelines. They are particularly useful in managing project timelines and ensuring that important objectives are met.
+Milestones are very helpful to organize pull requests, issues, and commits into a structured timeline format. This is very beneficial for teams to use to track the status of their project tasks and goals, keeping team members accountable and on track to complete projects.
 
 ### How to Use Milestones
 
-1. **Viewing Milestones**:
-   - Navigate to any GitHub repository.
+**Viewing Milestones**:
+   - Navigate to a GitHub repository.
    - Go to the 'Issues' tab.
    - Click on 'Milestones' on the right side to see the list of milestones.
 
-2. **Participating in Milestones**:
-   - Open an issue or pull request.
-   - Under the 'Milestones' dropdown menu on the right, you can assign the issue or pull request to a specific milestone.
+**Participating in Milestones**:
+   - Open an issue or pull request in a GitHub repository.
+   - Under the 'Milestones' dropdown menu on the right, assign a pull request or issue to any milestone.
 
 ## Following Development
 
-Aside from milestones, you can follow the development of a project through the following methods:
+As a non-participator or non-contributor for a given GitHub repository, you can also track development of a project by watching a repository
 
 ### Watching a Repository
 
-- Receive notifications for all discussions related to the repository. This is useful if you want to stay updated with all changes and discussions. Click on the 'Watch' button at the top of the repository to choose your watching preferences.
+- By watching a repository, you essentially subscribe to receive notifications for discussions and updates to a given repository. This is very useful to keep up-to-date with all changes and discussions. To start following a repository in this manner, click on the 'Watch' button at the top of the repository for your particular watching preference.
+
+
+By subscribing to a particular repository, you will receive notifications in your GitHub inbox as shown in the following image:
+
+![alt text](/img/subscriptions.png)
