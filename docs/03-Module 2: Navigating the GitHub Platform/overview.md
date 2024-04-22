@@ -2,8 +2,8 @@
 title: Overview of Git Training Module
 sidebar_position: 0
 ---
-
-# Overview of Git Training Module
+# Navigating a Git Repository
+# Overview 
 
 Welcome to the Git Training Module! This course is designed to help you master the fundamental concepts and operations of Git, the widely used version control system. This overview will guide you through each section of the module, detailing what you will learn and how you can apply these skills in real-world scenarios.
 
