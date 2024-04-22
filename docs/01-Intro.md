@@ -6,44 +6,23 @@ sidebar_position: 1
 
 # GitHub: Basics and Beyond
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **GitHub and Version Control together**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+If you're anything like most developers, you know that Version Control is extremely **important**. But how can you learn about using GitHub quickly and easily?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Welcome to **GitHub: Basics and Beyond**, the new premier e-learning website to learn Git concepts. 
 
-### What you'll need
+### What you'll learn
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+You'll go through our curated modules, starting from the basics. We'll teach you how to:
+- Navigate the GitHub website
+- Create your first repository
+- Push and pull changes
+- Organize your projects
+- Merge your changes to the codebase effectively
+- Automate away simple tasks
 
-## Generate a new site
+**And so much more!** So what are you waiting for? Get started learning GitHub and version control **today**!
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
