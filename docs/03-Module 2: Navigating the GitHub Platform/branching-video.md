@@ -1,6 +1,6 @@
 ---
 title: "Video: How to checkout older commits and use branches" 
-sidebar_position: 3
+sidebar_position: 4
 ---
 ### Video Tutorial on Branching and Merging
 
