@@ -19,6 +19,3 @@ Therein lies the fundamental purpose of GitHub, to act as a place to store proje
 
 GitHub is not the only _hub_ for Git repositories! There are multiple other providers for hosting Git repositories on the cloud, like BitBucket, GitLab, and so on. Since a Git repository means the existence of a `/.git` directory, you could even make your own service for hosting the files, as long as the service allows you to see the contents of the `/.git` directory! This means that using and learning Git is highly valuable as the skill is transferable between many different services.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wpISo9TNjfU?si=yyuxQkkK_DKrFU26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Reference the above video for a review of what you've learned. It goes in-depth into the differences between Git and GitHub.
