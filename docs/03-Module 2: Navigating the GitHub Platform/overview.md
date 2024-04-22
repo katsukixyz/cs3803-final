@@ -8,7 +8,7 @@ sidebar_position: 0
 
 Welcome to this module designed to help you understand the fundamental concepts and operations of the Git version control system. This is a brief overview of what you will learn in each section of the module, and how these skills can be applied to real world scenarios.
 
-## Contents
+### Contents
 
 1. **Git Repository Structure and the Three Trees**
    - Explore the overall structure of a Git repository, including the .git directory, working directory, staging area, and commit history.
