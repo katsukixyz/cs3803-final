@@ -15,7 +15,7 @@ Click the image above to play the video.
 The video explains:
 - How to check out previous commits using a commit checksum.
 - How to create branches, switch between them, and manage different lines of development.
-- Techniques for merging branches together and handling conflicts that might arise during the merge.
+- Techniques for merging branches together.
 
 
 ### Walkthrough
