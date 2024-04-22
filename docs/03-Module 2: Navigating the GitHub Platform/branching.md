@@ -1,6 +1,6 @@
 ---
-title: Branching in Git with Video Tutorial
-sidebar_position: 2
+title: Branching in Git 
+sidebar_position: 3
 ---
 
 # Branching in Git 
