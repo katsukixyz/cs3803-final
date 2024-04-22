@@ -7,7 +7,7 @@ Watch this video tutorial to see how to make a commit and use `git status` and `
 ### Description of the Video
 
 This video explains:
-- The of making a commit
+- The process of making a commit
 - How to effectively use `git status` to see changes staged for commit
 - How to use `git log` to review your detailed commit history, which helps in understanding how Git tracks changes over time.
 
