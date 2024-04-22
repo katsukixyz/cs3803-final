@@ -5,7 +5,6 @@ sidebar_position: 2
 ### Video Tutorial on Making a Commit
 
 Watch this video tutorial to see how to make a commit and use `git status` and `git log` to check your repository's status and history.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fP7-ryuCvgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Git Tutorial Video](http://img.youtube.com/vi/fP7-ryuCvgc/0.jpg)](https://youtu.be/fP7-ryuCvgc)
 
