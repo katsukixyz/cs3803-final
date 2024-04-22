@@ -6,7 +6,7 @@ sidebar_position: 4
 
 This section includes a video tutorial on how to effectively manage branches and merge them, which are crucial practices for collaborative development.
 
-[![Branching and Merging Video](http://img.youtube.com/vi/URL/0.jpg)](http://www.youtube.com/watch?v=URL)
+[![Branching and Merging Video](http://img.youtube.com/vi/oiuQdv_ekaU/0.jpg)](https://youtu.be/oiuQdv_ekaU)
 
 ### Description of the Video
 
