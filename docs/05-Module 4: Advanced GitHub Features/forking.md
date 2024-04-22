@@ -7,7 +7,5 @@ Sometimes, you may want to create a copy of a repository that you can access, ev
 
 A Fork is an identical personal copy of a repository and its branches. By forking a repository, you can commit code to your version of the repository and submit a merge request to the original. Forks are able to access the object pool of the original project, allowing you to work without worry, even if you don't have access to clone the original.
 
-&nbsp;Follow the video on the next page to learn how to fork!
-
 ## Merging changes back to the original
 When you're ready to send your changes from your fork the the original repository, you can create a merge request. Set the 'Source' branch to be your forked project's branch, and set the 'Target' branch to be the branch in the original project.

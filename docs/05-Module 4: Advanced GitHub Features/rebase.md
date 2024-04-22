@@ -7,14 +7,36 @@ There are times when you may want to merge, but experience a merge conflict and 
 
 A git rebase updates your branch with the contents of another branch. Rebasing can help determine that changes in your branch won't conflict with changes in the branch you want to merge to (usually your project's master branch).
 
-&nbsp;Follow the video on the next page to learn how to rebase!
+&nbsp;
 
 ## How does Rebasing work?
 
-Rebasing brings commits from your target branch into your working branch. It then applies all commits from after the working branch was created ***after*** first importing commits from the target branch. The image below provides a visualization of this process.
+Rebasing brings commits from your target branch into your working branch. It then applies all commits from after the working branch was created ***after*** first importing commits from the target branch. In other words, it replays all your commits, but with the starting point being the branch you are rebasing onto. The image below provides a visualization of this process.
 
 ![Branch structure when rebasing](/img/rebase.png)
 <small>Source: GitLab</small>
+
+## Exercise
+
+Let's take a look at a procedure for rebasing! Create a repository using what you know from earlier modules. Then, checkout a branch called experiment.
+
+```
+$ git checkout experiment
+$ git rebase master
+First, rewinding head to replay your work on top of it...
+Applying: added staged command
+```
+
+Doing this will reset the master branch to the same commit you are on and then apply each change from experiment in turn on top of it.  
+
+Since these two branches are now consistent, you can merge experiment into master as usual. 
+
+```
+$ git checkout master
+$ git merge experiment
+```
+
+Now we've merged the two branches together without any merge conflicts!
 
 ## Warning: Don't mess up your branch history!
 
