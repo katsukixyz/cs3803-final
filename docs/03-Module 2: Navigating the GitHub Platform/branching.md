@@ -2,7 +2,7 @@
 title: Branching in Git 
 sidebar_position: 3
 ---
-
+![branching-img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.develer.com%2Fen%2Fblog%2Fgit-come-scrivere-commits-e-perche%2F&psig=AOvVaw3Hm9HLWMq1c3OPdJCW09mB&ust=1713899405891000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDc3eXE1oUDFQAAAAAdAAAAABAh "Branching")
 # Branching in Git 
 
 Branching allows for non linear development in Git and it allows developers to experiment, develop new features, fix bugs, or make any changes without affecting the main branch or any other branches within the same repo. This also allows other team members working on the same project to contribute and make changes by working on their own branch.
