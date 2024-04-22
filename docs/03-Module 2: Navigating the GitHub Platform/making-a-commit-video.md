@@ -1,5 +1,5 @@
 ---
-title: Video: Making a commit
+title: Video: How to make a Commit
 sidebar_position: 2
 ---
 ### Video Tutorial on Making a Commit
