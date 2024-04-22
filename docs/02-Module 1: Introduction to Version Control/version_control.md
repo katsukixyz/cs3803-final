@@ -17,7 +17,7 @@ Clearly, there are benefits with tracking chnages using version control software
 
 #### Commits
 
-![Commit](/img/commit.png)
+![Commit](/img/commit_mod1.png)
 
 In its most basic sense, a commit in version control describes the state of your files and code at a specific point in time. Each commit is marked with a hash (a unique identifier corresponding to the changes you made) and a timestamp of when the commit occurred. Version control software allows you, the user, to determine when these **checkpoints** occur through a manual process. This is a departure from what we have analogized in the past – Google Docs and Microsoft Word's history tracking – as these processes are automatic (auto-saving), whereas version control commits are not. You, the user, are responsible for creating the commits. Commits represent the building block of version control. Computing the differences, or _diffs_, between commits, are used to identify changes that have occurred since a certain point, and we can revert back to certain commits. Essentially, every significant change or update to the code should be linked to a commit so that updates to it can be documented by the version control software.
 
