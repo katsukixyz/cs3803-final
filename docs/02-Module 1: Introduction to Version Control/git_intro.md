@@ -25,6 +25,11 @@ To explain how Git works at a high level, let us first explain the concept of a 
 
 Setting up a new repository, if not initialized already, is as simple as running `git init` in the command line. This will initialize an empty Git repository for you to start using Git. Let us dive deeper into how Git implements the concepts we discussed in the previous lesson.
 
+> You can also create a repository from [GitHub](https://github.com/) using their web interface. Click the following link to try it out!
+
+[`Create New Repository`](https://github.com/new?owner=@me&name=my-first-repo&description=My+first+repo&visibility=public)
+
+
 Making commits, branching, and merging are all core parts of the Git workflows in software engineering. Git keeps a record of the changes you make via commits, and any branches and merges that come as a result are properly stored in the `/.git` directory, without you having to do any additional work to keep that data stored. We should note that Git is primarily a tool interfaced via the command line. As a side note, running `git --help` will provide you with a list of commands that Git supports, and you can also reference the official [documentation](https://git-scm.com/docs) to get a better understanding of its wide feature set. Commands like `git commit`, `git checkout`, etc. all serve to modify the Git repository (the `/.git` directory) on your behalf without requiring any manual intervention. Essentially, the commands serve as a consistent interface for you to interact with the version control software. This makes it easy for us to describe our operations in terms of commands instead of the exact changes that occur under-the-hood of Git.
 
 As such, we will be referencing Git commands throughout the next modules to describe exactly how to use Git in your upcoming and existing technical projects to facilitate software development. Recap the learning from this lesson by watching the informative video below:
