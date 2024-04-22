@@ -1,3 +1,7 @@
+---
+title: "Video: How to checkout older commits and use branches" 
+sidebar_position: 3
+---
 ### Video Tutorial on Branching and Merging
 
 This section includes a video tutorial on how to effectively manage branches and merge them, which are crucial practices for collaborative development.
