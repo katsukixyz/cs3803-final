@@ -4,6 +4,7 @@ sidebar_position: 1
 ---
 
 # Git Repository Structure and the Three Trees
+![branching-img](/img/commit.png)
 
 ## Overview of Git Repository Structure
 
