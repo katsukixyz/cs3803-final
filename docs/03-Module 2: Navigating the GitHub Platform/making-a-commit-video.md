@@ -42,8 +42,17 @@ git commit -m "commit message"
 ```
 This command is a shortcut where you can directly provide a commit message using the `-m` option so that you do not have to go into a text editor. 
 
-Now after you have made a commit using one of the previous options, you can check you commit history using the following command:
+Now after you have made a commit using one of the previous options, you can check the commit history using the following command:
 ```bash
 git log
 ```
 The `git log` command will output the full commit history of the repository. Since we only have one commit, you should see that commit along with its commit message and the checksum of the commit. 
+
+Now, let's make some more changes and then commit them. Create a new file called `anotherFile` and then add some text to the `newFile` file. Now, running `git status` shows us that git is aware that `newFile` has been modified and that there is a new untracked file `anotherFile` in the repository. We want to add these two changes to the staging index to be committed. Initially we used `git add <file-name>` to add a file to the staging index. We can do this again for both of our files. However, a faster way to add all changes to the staging index is to provide a directory name as an argument to the `git add` command. This will add all changes in the provided directory to the staging index. Since we want to add all changes in the current directory to the staging index we can use the following command:
+```bash
+git add .
+```
+Now we can verify that all changes are added to the staging index by using `git status` once again. The output of `git status` now indicates that both of our changes are ready to be committed. Now, we can commit these changes using: 
+```bash
+git commit -m "commit message"
+```
