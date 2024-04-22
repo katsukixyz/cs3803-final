@@ -8,7 +8,7 @@ This section includes a video tutorial on how to effectively manage branches and
 
 [![Branching and Merging Video](http://img.youtube.com/vi/oiuQdv_ekaU/0.jpg)](https://youtu.be/oiuQdv_ekaU)
 
-Click the image above to play the video.
+Click to play the video.
 
 ### Description of the Video
 
