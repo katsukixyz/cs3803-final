@@ -8,7 +8,7 @@ Watch this video tutorial to see how to make a commit and use `git status` and `
 
 [![Git Tutorial Video](http://img.youtube.com/vi/fP7-ryuCvgc/0.jpg)](https://youtu.be/fP7-ryuCvgc)
 
-Click the image above to play the video.
+Click to play the video.
 
 ### Description of the Video
 
