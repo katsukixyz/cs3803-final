@@ -1,3 +1,7 @@
+---
+title: Video: Making a commit
+sidebar_position: 2
+---
 ### Video Tutorial on Making a Commit
 
 Watch this video tutorial to see how to make a commit and use `git status` and `git log` to check your repository's status and history.
