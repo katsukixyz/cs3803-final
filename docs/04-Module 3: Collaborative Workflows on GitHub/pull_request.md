@@ -36,11 +36,10 @@ git push -u origin feature-branch
 Go to the GitHub repository page and click on the "New pull request" button. Select your branch and provide a descriptive title and description for your pull request.
 
 <!-- ![](/img/pull_request.mp4) -->
-
-<video width="900" height="430" controls>
-  <source src="/img/pull_request.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
+<video crossorigin="anonymous" width="800" height="430" controls>
+  <source src="https://drive.lienuc.com/uc?id=118i6-5R5fxWK63lw-DwKVYyVfNKMBhm3" />
 </video>
+Videos may take up to 10 seconds to load
 
 ### Step 3: Review and Collaborate
 

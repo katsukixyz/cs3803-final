@@ -13,11 +13,10 @@ Let's take a look at some **open-source projects** that are impactful. Explore t
 
 ### Video Overview
 
-<video width="100%" height="100%" controls>
-  <source src="/img/examples-demo.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
+<video crossorigin="anonymous" width="100%" height="100%" controls>
+  <source src="https://drive.lienuc.com/uc?id=12mgJoo0YTo425JJ7T9jssUrQbocRx3NW"/>
 </video>
-
+Videos may take up to 10 seconds to load
 
 ## Examples of Open-Source Projects
 

@@ -50,7 +50,7 @@ This interactive exercise is for you to practice your skills in working with ope
 
 ### Video Solution
 
-<video width="100%" height="100%" controls>
-  <source src="/img/walkthrough-demo-1.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
+<video crossorigin="anonymous" width="100%" height="100%" controls>
+  <source src="https://drive.lienuc.com/uc?id=143pIsfuDwZD8f1VOIHgauGDbjawp8Jf1"/>
 </video>
+Videos may take up to 10 seconds to load

@@ -35,10 +35,10 @@ Here is how you can create a GitHub project.
 5. Add issues, pull requests, or notes to your project.
 
 **Tutorial**
-<video width="100%" height="100%" controls>
-  <source src="/img/projects.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
+<video crossorigin="anyonymous" width="100%" height="100%" controls>
+  <source src="https://drive.lienuc.com/uc?id=12Zhfldipdarg_gAr_d0Fp7c-Y22jyQy6" />
 </video>
+Videos may take up to 10 seconds to load
 
 ### Example of a Project
 
