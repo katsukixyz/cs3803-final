@@ -4,7 +4,8 @@ sidebar_position: 1
 ---
 
 # Git Repository Structure
-![branching-img](/static/img/commit.png)
+
+![branching-img](/img/commit.png)
 
 ## Overview of Git Repository Structure
 
@@ -33,8 +34,3 @@ Understanding how to use Git commands effectively is key to managing your reposi
 - **`git status`**: This command displays the state of the working directory and the staging index. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 
 - **`git log`**: This command shows the commit history on the currently checked out branch. This enables you to see the sequence of commits including their messages, authors, dates, and checksums/hashes.
-
-
-
-
-
