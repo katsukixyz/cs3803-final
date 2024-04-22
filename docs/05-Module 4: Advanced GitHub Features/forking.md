@@ -5,7 +5,9 @@ Sometimes, you may want to create a copy of a repository that you can access, ev
 
 ## What is Forking?
 
-A Fork is an identical personal copy of a repository and its branches. By forking a repository, you can commit code to your version of the repository and submit a merge request to the original. Forks are able to access the object pool of the original project, allowing you to work without worry, even if you don't have access to clone the original.
+A Fork is an identical personal copy of a repository and its branches. By forking a repository, you can commit code to your version of the repository and submit a merge request to the original. Forks are able to access the object pool of the original project, allowing you to work without worry, even if you don't have access to clone the original.  
+
+Forking fosters experimentation and allows for easy contribution back to the main project via pull requests.
 
 ## Merging changes back to the original
 When you're ready to send your changes from your fork the the original repository, you can create a merge request. Set the 'Source' branch to be your forked project's branch, and set the 'Target' branch to be the branch in the original project.
